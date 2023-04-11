@@ -1,7 +1,6 @@
 # wordpress-site
 
 This is a responsive wordpress site of a mockup bakery site.  
-Live site : https://gym774.wordpress.com
 
 
 
